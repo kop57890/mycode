@@ -1,0 +1,7 @@
+D:\AddFunction\AddFunction\bin\Debug\AddFunction.exe.config
+D:\AddFunction\AddFunction\bin\Debug\AddFunction.exe
+D:\AddFunction\AddFunction\bin\Debug\AddFunction.pdb
+D:\AddFunction\AddFunction\obj\Debug\AddFunction.csprojAssemblyReference.cache
+D:\AddFunction\AddFunction\obj\Debug\AddFunction.csproj.CoreCompileInputs.cache
+D:\AddFunction\AddFunction\obj\Debug\AddFunction.exe
+D:\AddFunction\AddFunction\obj\Debug\AddFunction.pdb
