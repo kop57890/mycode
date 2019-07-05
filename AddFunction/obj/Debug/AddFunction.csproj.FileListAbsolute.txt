@@ -5,3 +5,10 @@ D:\AddFunction\AddFunction\obj\Debug\AddFunction.csprojAssemblyReference.cache
 D:\AddFunction\AddFunction\obj\Debug\AddFunction.csproj.CoreCompileInputs.cache
 D:\AddFunction\AddFunction\obj\Debug\AddFunction.exe
 D:\AddFunction\AddFunction\obj\Debug\AddFunction.pdb
+D:\mycode\AddFunction\bin\Debug\AddFunction.exe.config
+D:\mycode\AddFunction\bin\Debug\AddFunction.exe
+D:\mycode\AddFunction\bin\Debug\AddFunction.pdb
+D:\mycode\AddFunction\obj\Debug\AddFunction.csprojAssemblyReference.cache
+D:\mycode\AddFunction\obj\Debug\AddFunction.csproj.CoreCompileInputs.cache
+D:\mycode\AddFunction\obj\Debug\AddFunction.exe
+D:\mycode\AddFunction\obj\Debug\AddFunction.pdb

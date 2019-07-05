@@ -5833,11 +5833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AddFunction\\FunctionTest\\FunctionTest.csproj",
+      "projectUniqueName": "D:\\mycode\\FunctionTest\\FunctionTest.csproj",
       "projectName": "FunctionTest",
-      "projectPath": "D:\\AddFunction\\FunctionTest\\FunctionTest.csproj",
+      "projectPath": "D:\\mycode\\FunctionTest\\FunctionTest.csproj",
       "packagesPath": "C:\\Users\\1709076\\.nuget\\packages\\",
-      "outputPath": "D:\\AddFunction\\FunctionTest\\obj\\",
+      "outputPath": "D:\\mycode\\FunctionTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5856,8 +5856,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\AddFunction\\AddFunction\\AddFunction.csproj": {
-              "projectPath": "D:\\AddFunction\\AddFunction\\AddFunction.csproj"
+            "D:\\mycode\\AddFunction\\AddFunction.csproj": {
+              "projectPath": "D:\\mycode\\AddFunction\\AddFunction.csproj"
             }
           }
         }
