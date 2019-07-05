@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace AddFunction
 {
-    public class Program
+    public class AddMethod
     {
         static void Main(string[] args)
         {
-         
+            int tmp = Add(1, 2);
+            Console.WriteLine(tmp);
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
         }
-        public int Add(int firstunm, int secnum) {
-            return firstunm + secnum;
+
+        public static int Add(int fnum, int secnum) {
+            return fnum + secnum;
         }
     }
 }
